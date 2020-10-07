@@ -1,8 +1,8 @@
 # ElvenNamesGenerator
-Random Elven names generator
+## Random Elven names generator
 
 Генератор радномных эльфийских имен с переводом
-Вот примеры генерации:
+#### Вот примеры генерации:
 * Kareth - дракон тайный
 * Naemar - древний честь
 * Thaer - бдительный зима
